@@ -1,4 +1,4 @@
-# CodeAlpha_Car_Price_Prediction_with_Machine_Learning
+# Car_Price_Prediction_with_Machine_Learning
 Overview
 This project is an interactive web application designed to predict car prices using machine learning techniques. The application leverages a Linear Regression model to estimate prices based on various features of cars, such as brand goodwill, horsepower, mileage, and more.
 <br>
